@@ -1,4 +1,5 @@
 # C Logger
+<img width="429" height="155" alt="Screenshot 2025-07-13 at 1 17 31 AM" src="https://github.com/user-attachments/assets/f06898b6-c52a-497c-b1ce-393af59dd9e7" style="display: block; margin: 0 auto" />
 
 Simple C logger that prints ASCII color-coded messages to the terminal and can optionally mirror them to a log file.  
 
