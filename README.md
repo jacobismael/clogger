@@ -43,7 +43,7 @@ int main()
 }
 ```
 
-## Future
+## Future Features
 - Thread-safety for multi-core applications
 - Time-stamps on each log line
 - Customizable log file name and location
